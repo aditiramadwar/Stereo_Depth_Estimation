@@ -1,13 +1,18 @@
+
 # Stereo_Depth_Estimation
 Depth Estimation using Uncalibrated Stereo Camera
 
 ### Set up project:
-git clone https://github.com/aditiramadwar/Stereo_Depth_Estimation.git
+
+    git clone https://github.com/aditiramadwar/Stereo_Depth_Estimation.git
 
 ### Run project
 ```
 python3 main.py --set=1
 ```
-choose from set 1-2
+choose from set 1-3
 
-all the results are saved in the results folder
+## Results
+### Set 1
+<img  alt="edges"  src="results/curule/DepthMap.png"  width="80%" />
+
