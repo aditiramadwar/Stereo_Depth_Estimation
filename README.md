@@ -16,3 +16,6 @@ choose from set 1-3
 ### Set 1
 <img  alt="edges"  src="results/curule/DepthMap.png"  width="80%" />
 
+### Set 2
+<img  alt="edges"  src="results/octagon/DepthMap.png"  width="80%" />
+
